@@ -34,7 +34,7 @@ export default function Home() {
               <p className="mt-2 max-w-[500px] text-gray-400">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam quaerat facere voluptatem, tenetur nulla qui, delectus, consectetur est ullam eligendi eum!</p>
           </div>
           <div className="mt-2 p-2 flex items-center text-sm gap-6">
-            <Link class="inline-flex items-center space-x-1 justify-center rounded-lg text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-700" target="_blank" href="https://github.com/maokimkorng/next-auth-app">
+            <Link class="inline-flex items-center space-x-1 justify-center rounded-lg text-sm font-semibold py-3 px-4 bg-slate-900 text-white hover:bg-slate-700" target="_blank" href="https://github.com/kimkorngmao/next-auth-app">
               <span>Source code</span>
               <span class="hidden text-slate-400 sm:inline">
                 <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
